@@ -1,1 +1,1 @@
-Repositório para envio das atividades do curso eback backend em java. 
+Repositório para envio das atividades do curso ebac backend em java. 
