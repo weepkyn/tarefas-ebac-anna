@@ -1,0 +1,13 @@
+INÍCIO
+1. Acordar;
+2. Abrir o olho;
+3. Checar hora;
+4. Se hora >=6;
+	1. Levantar;	
+	2. Abrir a porta;
+	3. Escovar os dentes;	
+	4. Tomar banho;
+	5. Comer;
+	6. Escovar os dentes;
+5. Voltar a dormir;
+FIM
